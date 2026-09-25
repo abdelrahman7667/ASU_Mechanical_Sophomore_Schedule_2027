@@ -8,7 +8,7 @@
 
 ## Live Demo
 
-[*(Add your GitHub Pages link here after uploading)*](https://abdelrahman7667.github.io/ASU_Mechanical_Sophomore_Schedule_2027/)
+[*[(https://abdelrahman7667.github.io/ASU_Mechanical_Sophomore_Schedule_2027/)*]
 
 ---
 
